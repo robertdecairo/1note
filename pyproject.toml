@@ -1,5 +1,5 @@
 [project]
-name = Mujren_Counter"
+name = "Mujren_Counter"
 version = "1.0.0"
 requires-python = ">=3.12"
 dependencies = [
